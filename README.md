@@ -1,7 +1,7 @@
 # Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-https://youtube.com/shorts/B5t_z7eCoXk?feature=share
+This is an [Expo](https://expo.dev) project created with [`create-expo-app`] [Coding project walkthrough](https://www.npmjs.com/package/create-expo-app).
+[Coding project Demo](https://youtube.com/shorts/B5t_z7eCoXk?feature=share)
 https://youtu.be/agdD6uGyqC4
 
 ## Get started
